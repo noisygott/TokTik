@@ -20,7 +20,7 @@ Aprendí sobre el uso de datasources y repositories, y la importancia de que la 
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/tok_tik.git
+   git clone https://github.com/noisygott/tok_tik.git
    ```
 2. Entra en el directorio del proyecto:
    ```sh
